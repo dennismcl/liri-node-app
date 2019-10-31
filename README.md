@@ -9,5 +9,6 @@ OMBD API
 Bands In Town API
 Moment
 DotEnv
+TV Maze
 
 Dennis McLaughlin: Main Developer
